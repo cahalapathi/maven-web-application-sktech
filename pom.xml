@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>SK Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.130.5:8081/repository/navaz-release/</url>
+	      <url>http://43.205.208.169:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>SK Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.130.5:8081/repository/navaz-snapshot/</url>
+	      <url>http://43.205.208.169:8081/repository/maven-public/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
